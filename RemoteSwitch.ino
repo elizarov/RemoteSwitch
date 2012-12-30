@@ -22,7 +22,7 @@
 #include "blink_led.h"
 #include "parse.h"
 
-#define DATA_PIN A1
+#define DATA_PIN 6
 #define A_TIME 400
 #define REPEAT_COUNT 8
 #define BIT_COUNT 12
